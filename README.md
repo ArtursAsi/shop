@@ -27,6 +27,9 @@ Create Database with 2 tables
 Migrate Database
 >php artisan migrate
 
+Generate key
+>php artisan key:generate
+
 Run app
 >php artisan serve
 
